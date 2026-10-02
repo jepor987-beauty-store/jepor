@@ -1,0 +1,5 @@
+# Jepor987 Beauty Store
+
+Jepor987 Beauty Store | Katalog Kecantikan dan Kebutuhan Harian
+
+- [Beranda](https://jepor987-beauty-store.github.io/jepor)
